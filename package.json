@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/app.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/oscarvargas4/itacademy-sprint4.2-mongoose-dices#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "mongoose": "^6.1.2",
     "nodemon": "^2.0.15"
   }
