@@ -1,0 +1,23 @@
+{
+  "name": "sprint4.2-mongoose-dices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarvargas4/itacademy-sprint4.2-mongoose-dices.git"
+  },
+  "author": "Oscar Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarvargas4/itacademy-sprint4.2-mongoose-dices/issues"
+  },
+  "homepage": "https://github.com/oscarvargas4/itacademy-sprint4.2-mongoose-dices#readme",
+  "dependencies": {
+    "mongoose": "^6.1.2",
+    "nodemon": "^2.0.15"
+  }
+}
